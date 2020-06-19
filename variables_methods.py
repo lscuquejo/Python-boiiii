@@ -15,7 +15,7 @@ def my_print_method(my_parameter):
     print(my_parameter)
 
 
-def my_multuply_method(number_one, number_two):
+def my_multiply_method(number_one, number_two):
     return number_one * number_two
 
 result = my_multiply_method(5, 3)
